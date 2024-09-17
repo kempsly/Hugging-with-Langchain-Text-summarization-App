@@ -60,7 +60,7 @@ To run this app, you need the following:
 
 ## Code Structure
 
-- **app.py**: Main file containing the Streamlit app logic and UI components.
+- **main.py**: Main file containing the Streamlit app logic and UI components.
 - **LangChain Integration**: 
   - **HuggingFaceEndpoint**: Used to access the `Mistral-7B-Instruct` model for summarization.
   - **YoutubeLoader** and **UnstructuredURLLoader**: Load content from YouTube and websites respectively.
