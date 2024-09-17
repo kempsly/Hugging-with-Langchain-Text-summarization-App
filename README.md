@@ -69,7 +69,7 @@ To run this app, you need the following:
 
 ## Example
 
-![App UI](assets/app_screenshot.png)
+![App UI](assets/app_screenshot.PNG) 
 
 1. Enter the HuggingFace API token and a valid URL (YouTube or website).
 2. Hit the **Summarize** button.
